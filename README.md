@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning AI tools
 - 💞️ I’m looking for Job 
 - 📫 How to reach me ..
-      Linkedin - https://www.linkedin.co
-m/in/akash-singh4a244a264
-Email - aka.singh707@gmail.com
+      Linkedin - https://www.linkedin.com/in/akash-singh4a244a264
+       Email - aka.singh707@gmail.com
 
 
 <!---
