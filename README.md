@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @DSCoderSingh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Data Analyst
+- 🌱 I’m currently learning AI tools
+- 💞️ I’m looking for Job 
+- 📫 How to reach me ..
+      Linkedin - https://www.linkedin.co
+m/in/akash-singh4a244a264
+Email - aka.singh707@gmail.com
+
 
 <!---
 DSCoderSingh/DSCoderSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
